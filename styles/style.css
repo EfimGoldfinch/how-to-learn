@@ -17,7 +17,6 @@
   position: relative;
   background-color: #f2f2f2;
   align-items: center;
-  /*border: 1px solid red;*/
   /* выше установили ограничения для секции */
 }
 .main {
@@ -111,7 +110,6 @@
 .two-columns__main-text {
   display: flex;
   flex-direction: column;
-  /*border: 1px solid red;*/
   justify-content: space-between;
   width: 80%;
   min-width: 784px;
@@ -286,7 +284,6 @@
   padding: 60px 0 40px 0;
   min-height: 350px;
   background-color: #1f1f1f;
-  border: 1px solid red;
 }
 
 .footer__columns {
