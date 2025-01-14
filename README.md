@@ -1,27 +1,27 @@
-# Научиться учиться Яндекс Практикум
+# How to Learn (Yandex Practicum)
+
+_The project showcases various approaches to learning, principles, techniques, and procrastination._  
+_The goal of this project is to refine HTML and CSS skills._
 
 ---
 
-_Проект рассказывает о различных подходах к обучению, принципах, техниках обучения и прокрастинации_
-_Цель создания проетка - отточить HTML, CSS_
+### Features:
+
+- The project includes several embedded videos for learning.
+- Future plans involve adapting the project for all devices and migrating it to React.
 
 ---
 
-В данном проекте можно изучить несколько встроенных видео
+### Highlights:
+
+- **YouTube Videos**: Embedded using iframes.
+- **Link Animations**: Smooth animations when hovering over links.
+- **Geometric Animation**: Even animations of geometric shapes.
+- **Absolute Positioning**: Applied for layout adjustments.
+- **Flexbox**: Used for layout and alignment.
+- **BEM Methodology**: Organized file structure following BEM (Nested) principles.
 
 ---
 
-В будущем планируется адаптировать проект под все устройства и перенести его на React
-
----
-
-- Используется iframe для видео с YouTube
-- Используется анимация ссылок при наведении
-- Используется равномерная анимации геометрических фигур
-- Используется абсолютное позиционирование
-- Используется флекс
-- Используется файловая структура по БЭМ (Nested)
-
----
-
-Ссылка на демо: https://how-to-learn-weld.vercel.app/
+### Demo Link:
+[Check out the demo](https://how-to-learn-weld.vercel.app/)
